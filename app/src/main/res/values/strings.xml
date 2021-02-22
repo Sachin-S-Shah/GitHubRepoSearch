@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHubRepoSearch</string>
+
+
+    <string name="search_hint">Search</string>
+    <string name="error">Error</string>
+
+    <string name="repo_branch">%1$s - %2$s</string>
+
+    <string name="xx_open_issues">%1$s\nopen issues</string>
+    <string name="xx_forks">%1$s\nforks</string>
+    <string name="readme_error_messsage">No readme found</string>
+</resources>
